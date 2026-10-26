@@ -32,6 +32,6 @@ I have also contributed documentation work to open source projects on GitHub.
 
 ### [Kamra PMS](https://github.com/Kamra-PMS/kamra-pms)
 - **Issue:** [Docs: tutorial, write your first country pack](https://github.com/Kamra-PMS/kamra-pms/issues/258)
-- **Description:** The project required a tutorial for creating country packs that are preset configurations that would populate foundational setups. Aside from writing the tutorial itself (in markdown), the doc also had to be embedded to other pages in the repo and their doc site through their static site generator doc structure. 
+- **Description:** The project required a tutorial for creating country packs that are preset configurations that would populate foundational setups. Aside from writing the tutorial itself (in markdown) according to their contribution guidelines and style guide, the doc also had to be embedded to other pages in the repo and their doc site through their static site generator doc structure. 
 - **PR:** [362](https://github.com/Kamra-PMS/kamra-pms/pull/362), [363](https://github.com/Kamra-PMS/kamra-pms/pull/363)
 - **Final Output:** [Write a country pack](https://kamrapms.com/docs/write-a-country-pack)
